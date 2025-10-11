@@ -17,13 +17,16 @@ Hey! I'm **M Sai Preetham Reddy**, a cybersecurity enthusiast and DFIR  Analyst 
 
 I specialize in **Digital Forensics & Incident Response (DFIR)** with a focus on:
 
-- 🔍 **Memory Forensics** - Analyzing Windows, Linux, and macOS memory dumps
+## What I Do
 
-- 🦠 **Malware Analysis** - Reverse engineering and unpacking malicious code  
+I specialize in **Digital Forensics & Incident Response (DFIR)** across multiple domains:
 
-- 🎯 **CTF Competitions** - Playing and authoring forensics challenges
 
-- 🕵️ **Threat Hunting** - Investigating adversarial behaviors
+- 🔬 **Forensic Analysis** - Analyzing memory dumps, disk images, and file systems
+- 🦠 **Malware Analysis** - Reverse engineering and behavioral analysis
+- 🌐 **Network Forensics** - Traffic analysis and threat detection
+- 🎯 **CTFs** - Playing and authoring forensics challenges
+- 🕵️ **Threat Hunting** - Investigating adversarial TTPs
 
 ## Current Role
 
