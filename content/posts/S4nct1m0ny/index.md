@@ -1,6 +1,6 @@
 ---
 title: "S4nct1m0ny bi0s CTF 2025 Writeup"
-date: 2024-10-10
+date: 2025-10-10
 draft: false
 tags: ["CTF", "writeup", "DFIR", "macOS", "Memory-forensics", "Malware-analysis"]
 ---
@@ -4336,8 +4336,8 @@ w3_4r3_v3n0m:9999
 
 - Remember: **"With great power comes great responsibility"** 
 
-*P.S.: If you found this writeup helpful or have questions egards to any part of the writeup , feel free to reach out on Discord.*
-*continue learning!* 🕷️
+*P.S.: If you found this writeup helpful or have questions about any of the techniques used, feel free to reach out on Discord . Always happy to discuss anything related to DFIR
+continue learning!* 🕷️
 
 ### Author
 

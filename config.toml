@@ -7,7 +7,7 @@ pluralizelisttitles = false
 
 [params]
 brand = "gh0stkn1gh7"
-brand_image = "images/brand_image.gif"
+brand_image = "/images/brand_image.gif"
 description = "CTF Player | DFIR | Security Researcher"
 dark_mode = true
 
