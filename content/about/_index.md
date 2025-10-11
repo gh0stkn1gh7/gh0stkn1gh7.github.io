@@ -11,11 +11,8 @@ layout: "single"
 ---
 ![cover-image](images/about-me.gif)
 
-Hey! I'm **M Sai Preetham Reddy**, a cybersecurity enthusiast and DFIR  Analyst documenting my journey through the digital forensics landscape.
+Hey! I'm **M Sai Preetham Reddy**, a cybersecurity enthusiast and DFIR  Analyst documenting my journey through the Digital Forensics landscape.
 
-## What I Do
-
-I specialize in **Digital Forensics & Incident Response (DFIR)** with a focus on:
 
 ## What I Do
 
@@ -26,7 +23,8 @@ I specialize in **Digital Forensics & Incident Response (DFIR)** across multiple
 - 🦠 **Malware Analysis** - Reverse engineering and behavioral analysis
 - 🌐 **Network Forensics** - Traffic analysis and threat detection
 - 🎯 **CTFs** - Playing and authoring forensics challenges
-- 🕵️ **Threat Hunting** - Investigating adversarial TTPs
+- 🕵️ **Threat Hunting & OSINT** - Investigating adversarial TTPs using open-source intelligence
+
 
 ## Current Role
 
