@@ -1,6 +1,6 @@
 ---
 
-title: "About"
+title: "About gh0stkn1ght"
 
 date: 2025-10-10
 
@@ -9,8 +9,7 @@ draft: false
 layout: "single"
 
 ---
-
-# About gh0stkn1gh7
+![cover-image](images/about-me.gif)
 
 Hey! I'm **M Sai Preetham Reddy**, a cybersecurity enthusiast and DFIR  Analyst documenting my journey through the digital forensics landscape.
 
