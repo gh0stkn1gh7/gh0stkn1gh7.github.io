@@ -7,8 +7,8 @@ pluralizelisttitles = false
 
 [params]
 brand = "gh0stkn1gh7"
-brand_image = "images/brand_image.jpg"
-description = "CTF Player | DFIR | Cybersecurity Researcher"
+brand_image = "images/brand_image.gif"
+description = "CTF Player | DFIR | Security Researcher"
 dark_mode = true
 
 # Menu goes directly in params, not params.menu
