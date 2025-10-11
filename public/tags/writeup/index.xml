@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Writeup on gh0stkn1gh7</title>
+    <link>//localhost:1313/tags/writeup/</link>
+    <description>Recent content in Writeup on gh0stkn1gh7</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/writeup/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>S4nct1m0ny bi0s CTF 2025 Writeup</title>
+      <link>//localhost:1313/posts/s4nct1m0ny/</link>
+      <pubDate>Fri, 10 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/s4nct1m0ny/</guid>
+      <description>&lt;h1 id=&#34;s4nct1m0ny&#34;&gt;S4nct1m0ny&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;images/Amazing-Spider-Man-317-cover.avif&#34; alt=&#34;cover-image&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;challenge-description&#34;&gt;Challenge Description&lt;/h3&gt;&#xA;&lt;p&gt;Peter Parker, the Daily Bugle’s star photographer and secretly Spider-Man, exposed Eddie Brock’s fake Spider-Man photos, earning J. Jonah Jameson’s praise. When Eddie begged for forgiveness, Peter snapped, “You want forgiveness? Get religion.” Humiliated, Eddie—now bonded with Venom—plotted his revenge. Recently, Peter faced performance issues with his laptop and sent it in for service. Upon its return, he noticed something was off. His Spider-Sense tingled — someone had tampered with it. Help Peter analyse the compromised system&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
