@@ -54,4 +54,4 @@ This blog is my digital notebook where I share:
 
 ---
 
-*Every artifact tells a story. Every memory dump hides secrets. The question is: are you looking hard enough?* 🕷️
+*Every artifact tells a story. Every layer of data hides secrets. The question is: are you looking hard enough?* 🕷️

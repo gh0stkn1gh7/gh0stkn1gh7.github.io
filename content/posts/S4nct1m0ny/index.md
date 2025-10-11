@@ -19,6 +19,8 @@ Peter Parker, the Daily Bugle’s star photographer and secretly Spider-Man, exp
 **MD5 Hash**: 
 c962ed1ae53f2003658caa07d47d33eb
 
+**Evidence File Password**: `TLaf.KdUxFz'So3z`
+
 ### Writeup
 
 We have been presented with a .raw file whose size is 6.45 GB upon a small peek in the hex editor we can confirm that the given file indeed is a memory dump
