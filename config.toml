@@ -1,0 +1,29 @@
+baseURL = "https://example.com/"
+languageCode = "en-us"
+theme = "poison"
+title = "gh0stkn1gh7"
+paginate = 10
+pluralizelisttitles = false
+
+[params]
+brand = "gh0stkn1gh7"
+brand_image = "images/brand_image.jpg"
+description = "CTF Player | DFIR | Cybersecurity Researcher"
+dark_mode = true
+
+# Menu goes directly in params, not params.menu
+menu = [
+    {Name = "About", URL = "/about/", HasChildren = false},
+    {Name = "Posts", URL = "/posts/", Pre = "Recent", HasChildren = true, Limit = 5}
+]
+
+# Social links go directly in params
+github_url = "https://github.com/gh0stkn1gh7"
+twitter_url = "https://twitter.com/gh0stkn1gh7"
+linkedin_url = "https://www.linkedin.com/in/gh0stkn1ght/"
+email_url = "mailto:mspreethamreddy75@gmail.com"
+discord_url = "gh0stkn1ght"
+
+[taxonomies]
+series = 'series'
+tags = 'tags'
