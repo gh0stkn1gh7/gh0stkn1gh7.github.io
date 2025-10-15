@@ -3450,7 +3450,7 @@ $ file preview
 preview: Mach-O 64-bit executable x86_64
 ```
 
-## Entry Point Analysis (`main` @ 0x100001D80)
+#### Entry Point Analysis (`main` @ 0x100001D80)
 
 Loading the binary in IDA Pro and analyzing the main function reveals the following execution flow:
 

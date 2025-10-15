@@ -28,7 +28,7 @@ I specialize in **Digital Forensics & Incident Response (DFIR)** across multiple
 
 ## Current Role
 
-**DFIR Analyst** at **Team bi0s** - India's #1 ranked CTF team
+**DFIR Analyst** at [**Team bi0s**](https://bi0s.in/) - India's #1 ranked CTF team
 
 I conduct forensic investigations, design CTF challenges, and contribute to security research focusing on defensive techniques and incident response methodologies.
 

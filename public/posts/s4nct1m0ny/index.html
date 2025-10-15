@@ -109,7 +109,7 @@
     
     
 
-<link type="text/css" rel="stylesheet" href="/css/bundle.min.31e63aa3972c96016065fa86ae1795a0300ef32f1895a1f3d73abf25b9adf73b.css">
+<link type="text/css" rel="stylesheet" href="/css/bundle.min.89e4e7ff977d0d1857739f9ce7f8c9660eb27064523c8b4a9f79717dc9a6fbdb.css">
 
 
     
@@ -203,9 +203,6 @@
                 
                 
             
-                
-                
-            
             
                 
                 
@@ -229,9 +226,6 @@
         
             
 
-            
-                
-                
             
                 
                 
@@ -407,6 +401,7 @@ powered by <a target="_blank" href="https://gohugo.io">Hugo</a> | themed with <a
 </ul>
 <p><strong>MD5 Hash</strong>:
 c962ed1ae53f2003658caa07d47d33eb</p>
+<p><strong>Evidence File Password</strong>: <code>TLaf.KdUxFz'So3z</code></p>
 <h3 id="writeup">Writeup</h3>
 <p>We have been presented with a .raw file whose size is 6.45 GB upon a small peek in the hex editor we can confirm that the given file indeed is a memory dump</p>
 <p>Q1/15) What is the OS version of the compromised system?
@@ -3734,7 +3729,7 @@ Since we already know that the  malicious binary is a  Mach-O executable named <
 <p>Since we already know that the malicious binary is a Mach-O executable named <code>preview</code>, let&rsquo;s start by checking what we&rsquo;re dealing with:</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>$ file preview
 </span></span><span style="display:flex;"><span>preview: Mach-O 64-bit executable x86_64
-</span></span></code></pre></div><h2 id="entry-point-analysis-main--0x100001d80">Entry Point Analysis (<code>main</code> @ 0x100001D80)</h2>
+</span></span></code></pre></div><h4 id="entry-point-analysis-main--0x100001d80">Entry Point Analysis (<code>main</code> @ 0x100001D80)</h4>
 <p>Loading the binary in IDA Pro and analyzing the main function reveals the following execution flow:</p>
 <h4 id="stage-0-initialization">Stage 0: Initialization</h4>
 <ul>
@@ -4604,11 +4599,6 @@ continue learning!</em> 🕷️</p>
       <ul>
         <li><a href="#challenge-description">Challenge Description</a></li>
         <li><a href="#writeup">Writeup</a></li>
-      </ul>
-    </li>
-    <li><a href="#entry-point-analysis-main--0x100001d80">Entry Point Analysis (<code>main</code> @ 0x100001D80)</a>
-      <ul>
-        <li></li>
         <li><a href="#flag">Flag</a></li>
         <li><a href="#author">Author</a></li>
       </ul>

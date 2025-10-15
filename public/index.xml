@@ -9,6 +9,13 @@
     <lastBuildDate>Fri, 10 Oct 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>About gh0stkn1ght</title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Fri, 10 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/about/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;images/about-me.gif&#34; alt=&#34;cover-image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Hey! I&amp;rsquo;m &lt;strong&gt;M Sai Preetham Reddy&lt;/strong&gt;, a cybersecurity enthusiast and DFIR  Analyst documenting my journey through the Digital Forensics landscape.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-i-do&#34;&gt;What I Do&lt;/h2&gt;&#xA;&lt;p&gt;I specialize in &lt;strong&gt;Digital Forensics &amp;amp; Incident Response (DFIR)&lt;/strong&gt; across multiple domains:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🔬 &lt;strong&gt;Forensic Analysis&lt;/strong&gt; - Analyzing memory dumps, disk images, and file systems&lt;/li&gt;&#xA;&lt;li&gt;🦠 &lt;strong&gt;Malware Analysis&lt;/strong&gt; - Reverse engineering and behavioral analysis&lt;/li&gt;&#xA;&lt;li&gt;🌐 &lt;strong&gt;Network Forensics&lt;/strong&gt; - Traffic analysis and threat detection&lt;/li&gt;&#xA;&lt;li&gt;🎯 &lt;strong&gt;CTFs&lt;/strong&gt; - Playing and authoring forensics challenges&lt;/li&gt;&#xA;&lt;li&gt;🕵️ &lt;strong&gt;Threat Hunting &amp;amp; OSINT&lt;/strong&gt; - Investigating adversarial TTPs using open-source intelligence&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;current-role&#34;&gt;Current Role&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;DFIR Analyst&lt;/strong&gt; at &lt;a href=&#34;https://bi0s.in/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Team bi0s&lt;/strong&gt;&lt;/a&gt; - India&amp;rsquo;s #1 ranked CTF team&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>S4nct1m0ny bi0s CTF 2025 Writeup</title>
       <link>//localhost:1313/posts/s4nct1m0ny/</link>
       <pubDate>Fri, 10 Oct 2025 00:00:00 +0000</pubDate>
