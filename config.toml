@@ -6,7 +6,7 @@ paginate = 10
 pluralizelisttitles = false
 
 [params]
-brand = "gh0stkn1gh7"
+brand = "gh0stkn1ght"
 brand_image = "/images/brand_image.gif"
 description = "DFIR | Malware Analysis | CTFs | Security Research"
 dark_mode = true
